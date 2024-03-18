@@ -1,3 +1,7 @@
+# Student name: Thilan Maduranga Bentharage
+# Student ID: 10656631
+# main.py for Assignment 1
+
 import random
 
 # constant values for the system
